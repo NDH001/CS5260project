@@ -2,7 +2,7 @@
 
 There are two options to run fl_robust and FGSM.
 
-1. Download fl_robust.ipynb,fl_defence, FGSM.ipynb and fgsm
+1. Download fl_robust.ipynb,fl_defence, FGSM.ipynb and fgsm \\
    -upload these files and notebook to the google drive 
    -run the two notebook with runFromScratch = False
 This is the ideal way of running the notebook since the folder already provided all the pretrained model and data needed for the executions.
