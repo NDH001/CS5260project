@@ -18,4 +18,4 @@ Effectiveness of the defence are as below:
 
 ![Screenshot (394)](https://user-images.githubusercontent.com/65244703/166104037-0748e9e2-c1ce-489d-a200-97619ef8c3a7.png)
 
-The wrongly classified perturbated data is reduced by 50%
+The wrongly classified perturbated data is reduced by more than 50%
